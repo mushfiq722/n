@@ -1,0 +1,31 @@
+.lubricat{
+    width: 500px;
+    height: 300px;
+    border: 10px solid yellow;
+    overflow-y: scroll;
+    
+}
+.adf{
+    width: 500px;
+    height: 30px;
+    border: 5px dashed violet;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+.lu{
+    display: flex;
+}
+.cricket{
+    width: 500px;
+    height: 300px;
+    border: 10px solid yellow;
+    overflow-y: scroll;
+}
+.cr{
+    display: flex;
+}
+.cric img{
+    width: 100%;
+    height: 300px;
+}

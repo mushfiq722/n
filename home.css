@@ -1,0 +1,37 @@
+.h{
+    text-align: center;
+    color: darkorange;
+    font-size: 150px;
+}
+.link{
+    text-decoration: none;
+    border: 20px;
+    background-color: rgb(253, 11, 11);
+    text-align: center;
+    padding: 20px;
+    
+}
+.link2{
+    text-decoration: none;
+    border: 20px;
+    background-color: orange;
+    text-align: center;
+    padding: 20px;
+    
+}
+.link3{
+    text-decoration: none;
+    border: 20px;
+    background-color:olive;
+    text-align: center;
+    padding: 20px;
+    
+}
+footer p{
+    padding: 30px;
+    text-align: center;
+    background-color: rgb(180, 204, 138);
+}
+.feb{
+    font-size: 500px;
+}  

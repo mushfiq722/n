@@ -1,0 +1,71 @@
+.nola{
+    display: flex;
+   
+}
+.nola img{
+    width: 500px;
+}
+.nola p{
+    width: 500px;
+    height: 300px;
+    border: 10px solid yellow;
+    overflow-y: scroll;
+}
+#gg{
+    width: 50%; 
+}
+#gg img{
+    width: 100%;
+}
+#kk{
+    width: 50%;
+
+
+}
+#kk img{
+    width: 90%;
+    margin-top: 50px;
+}
+
+#wel{
+    font-size: 50px;
+}
+p{
+    color: black;
+    font-family: 'Bona Nova', serif;
+    font-family: 'Otomanopee One', sans-serif;
+}
+body{
+    
+}
+.we{
+    color: rgb(100, 20, 0);
+    font-family: 'Otomanopee One', sans-serif;
+}
+#fc{
+    color: yellowgreen;
+}
+#h2c{
+    color: rgb(241, 48, 22);
+}
+.nnn{
+    width: 100%;
+    padding: 10px;
+    margin: 10px 10px;
+    margin-left: 5%;
+    margin-right: 5%;
+    box-shadow:5px 5px 10px 10px cornsilk;
+    
+    border-left: 10px solid ;
+    border-image:linear-gradient(orange, tomato);
+    border-image-slice: 1;
+    
+}
+#his{
+    color: green;
+}
+#moni{
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+    color: darkorange;
+}
